@@ -1,0 +1,26 @@
+{
+  "name": "vuex-mixin-check-multiple",
+  "version": "1.0.0",
+  "description": "Multiple checkboxes store logic mixin for Vuex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarsky-tgz/vuex-mixin-check-multiple.git"
+  },
+  "keywords": [
+    "store",
+    "checkboxes"
+  ],
+  "author": "Yaroslav Dobzhanskij <merlyn.tgz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarsky-tgz/vuex-mixin-check-multiple/issues"
+  },
+  "homepage": "https://github.com/yarsky-tgz/vuex-mixin-check-multiple#readme",
+  "peerDependencies": {
+    "vuex": "^3.0.1"
+  }
+}
